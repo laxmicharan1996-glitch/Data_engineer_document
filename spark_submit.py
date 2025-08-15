@@ -1,8 +1,9 @@
 # Databricks notebook source
 x=5
-y=10
+y=10    
 m = x*y
 print(m)
+print(m+2)
 
 # COMMAND ----------
 
